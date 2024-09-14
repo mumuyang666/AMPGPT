@@ -1,0 +1,1 @@
+python GPT_finetune.py --vocab_path ./ --model_path /aceph/louisyuzhao/buddy2/linyangxiao/AMP/AMPGPT/model/gpt_finetune --pretrained_path /aceph/louisyuzhao/buddy2/linyangxiao/AMP/AMPGPT/model/gpt_pep_pretrain_v0_Epoch_9.pth
